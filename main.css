@@ -1,0 +1,56 @@
+body{
+    background-color:#999;
+}
+
+h1{
+    color:#FFF;
+    font-family: serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.box{
+    background-color: #000;
+    margin: 0 auto;
+    padding: 20px;
+    width:300px
+}
+
+#num{
+    color:#FFF;
+    font-family: serif;
+    font-size: 55px;
+    height: 70px;
+    line-height: 70px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.buttons{
+    margin: 10p auto;
+    text-align: center;
+}
+
+.btn{
+    background-color: #EEE;
+    border: 0px;
+    cursor: pointer;
+    width: 100px;
+    padding: 10px 0;
+}
+
+#lower:hover{
+    background-color:#EEF;
+}
+
+#lower{
+    background-color: #CCF;
+}
+
+#higher{
+    background-color: #fcc;
+}
+
+#higher:hover{
+    background-color: ;
+}
